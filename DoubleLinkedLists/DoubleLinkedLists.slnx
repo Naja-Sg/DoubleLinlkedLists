@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Backend/">
+    <Project Path="DoubleLinkedLists/DoubleLinkedLists.csproj" />
+  </Folder>
+  <Folder Name="/Frontend/">
+    <Project Path="DoubleListFront/DoubleListFront.csproj" Id="bc42c2f1-9092-4edf-880a-b47c69ee8e32" />
+  </Folder>
+</Solution>
